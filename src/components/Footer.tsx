@@ -13,10 +13,10 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h3 className="text-xl font-bold bg-text-gradient bg-clip-text text-transparent mb-2">
-              Your Portfolio
+              Shaik Zahid Hussain
             </h3>
             <p className="text-muted-foreground text-sm">
-              Frontend Developer passionate about creating amazing user experiences
+              Web Developer | Python | MySQL | React.js - Passionate about quality code and clean interfaces
             </p>
           </div>
 
@@ -62,7 +62,7 @@ const Footer = () => {
               Made with <Heart className="h-4 w-4 mx-1 text-red-500" /> using React.js & Tailwind CSS
             </p>
             <p className="mt-2 md:mt-0">
-              © 2024 Your Name. All rights reserved.
+              © 2024 Shaik Zahid Hussain. All rights reserved.
             </p>
           </div>
         </div>

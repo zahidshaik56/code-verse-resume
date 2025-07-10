@@ -6,29 +6,29 @@ import { ExternalLink, Github, Eye } from "lucide-react";
 const Projects = () => {
   const projects = [
     {
-      title: "AI Resume Analyzer",
-      description: "An intelligent resume analysis tool that uses AI to provide detailed feedback, suggestions, and ATS compatibility scores. Features include keyword optimization, format analysis, and improvement recommendations.",
+      title: "Task Management App using React.js",
+      description: "A comprehensive task management application built using React.js that allows users to create, update, and delete tasks. Features task prioritization, due date reminders, progress tracking, and real-time notifications for enhanced productivity.",
       image: "/api/placeholder/600/400",
-      technologies: ["React.js", "Python", "Machine Learning", "NLP", "Flask", "TailwindCSS"],
+      technologies: ["React.js", "JavaScript", "CSS", "Local Storage"],
       liveDemo: "#",
       githubCode: "#",
       featured: true
     },
     {
-      title: "Internship Portal", 
-      description: "A comprehensive platform connecting students with internship opportunities. Features real-time applications, admin dashboard, automated email notifications, and advanced filtering capabilities.",
+      title: "Ecommerce Sales Analysis using Apache Spark", 
+      description: "An advanced analysis of ecommerce sales data using Apache Spark to gain comprehensive insights into sales patterns, customer behavior, and revenue trends. Features data processing, visualization, and predictive analytics.",
       image: "/api/placeholder/600/400", 
-      technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "JWT", "Material-UI"],
+      technologies: ["Apache Spark", "Python", "Data Analysis", "SQL", "Big Data"],
       liveDemo: "#",
       githubCode: "#",
       featured: true
     },
     {
-      title: "Movie Recommendation App",
-      description: "Smart movie recommendation system using collaborative filtering and content-based algorithms. Includes user ratings, watchlists, reviews, and personalized suggestions based on viewing history.",
+      title: "Portfolio Website",
+      description: "A modern, responsive portfolio website showcasing my projects, skills, and professional experience. Built with React.js and modern web technologies, featuring smooth animations and optimized performance.",
       image: "/api/placeholder/600/400",
-      technologies: ["React.js", "Python", "Django", "PostgreSQL", "APIs", "Scikit-learn"],
-      liveDemo: "#", 
+      technologies: ["React.js", "JavaScript", "CSS3", "Responsive Design"],
+      liveDemo: "https://shaik-zahid-hussain-gamma.vercel.app/", 
       githubCode: "#",
       featured: true
     },

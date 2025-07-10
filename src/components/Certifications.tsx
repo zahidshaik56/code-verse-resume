@@ -6,38 +6,38 @@ import { ExternalLink, Award, Calendar } from "lucide-react";
 const Certifications = () => {
   const certifications = [
     {
-      title: "Python Development Internship",
-      issuer: "MotionCut",
-      date: "May 2024",
-      description: "Comprehensive Python development program covering data structures, algorithms, web development with Django, and database management.",
-      skills: ["Python", "Django", "Data Structures", "Web Development"],
+      title: "Frontend Developer Internship",
+      issuer: "Renu Sharma Foundation",
+      date: "June 2025",
+      description: "Comprehensive frontend development program focusing on React.js, team leadership, CI/CD implementation, and microservices architecture.",
+      skills: ["React.js", "Node.js", "CI/CD", "Team Leadership"],
       certificateUrl: "#",
       verified: true
     },
     {
-      title: "Machine Learning Certification", 
-      issuer: "Bharat Intern",
-      date: "February 2024",
-      description: "Advanced machine learning course covering supervised and unsupervised learning, neural networks, and practical ML implementations.",
-      skills: ["Machine Learning", "Python", "TensorFlow", "Data Science"],
+      title: "Python Developer Internship", 
+      issuer: "M (Bangalore)",
+      date: "Summer 2019",
+      description: "Full-stack development internship covering RESTful API development, MongoDB integration, and Agile development methodologies.",
+      skills: ["Python", "Express.js", "MongoDB", "Agile Development"],
       certificateUrl: "#",
       verified: true
     },
     {
-      title: "Cloud Computing Fundamentals",
-      issuer: "NPTEL",
-      date: "January 2024", 
-      description: "Comprehensive cloud computing course covering AWS, Azure, cloud architecture, and distributed systems fundamentals.",
-      skills: ["Cloud Computing", "AWS", "Azure", "Distributed Systems"],
+      title: "Computer Systems Engineering",
+      issuer: "JNTU Anantapur",
+      date: "2021-2025", 
+      description: "Bachelor of Technology degree program covering computer systems, software engineering, data structures, and modern web technologies.",
+      skills: ["Computer Systems", "Software Engineering", "Data Structures", "Algorithms"],
       certificateUrl: "#",
       verified: true
     },
     {
-      title: "Java Programming Internship",
-      issuer: "Tech Solutions",
-      date: "December 2023",
-      description: "Object-oriented programming with Java, Spring Boot framework, and enterprise application development practices.",
-      skills: ["Java", "Spring Boot", "OOP", "Enterprise Development"],
+      title: "Web Development Specialization",
+      issuer: "Self-Directed Learning",
+      date: "Ongoing",
+      description: "Continuous learning in modern web technologies, focusing on React.js, Python, Apache Spark, and database management systems.",
+      skills: ["React.js", "Python", "Apache Spark", "MySQL"],
       certificateUrl: "#",
       verified: true
     },

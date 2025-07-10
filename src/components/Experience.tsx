@@ -7,26 +7,18 @@ const Experience = () => {
     {
       company: "Renu Sharma Foundation",
       role: "Frontend Developer Intern",
-      duration: "June 2024 - August 2024",
-      location: "Remote",
-      description: "Worked on a React-based internship portal with real-time form validation and dynamic dashboard updates. Implemented responsive design patterns and collaborated with backend developers to integrate RESTful APIs. Enhanced user experience through intuitive UI/UX design and optimized application performance by 40%.",
-      technologies: ["React.js", "JavaScript", "CSS3", "REST APIs", "Git"]
+      duration: "Feb 2025 - June 2025",
+      location: "San Francisco, CA",
+      description: "Led a team of 5 developers in building scalable web applications using React and Node.js. Implemented CI/CD pipelines that reduced deployment time by 40% and architected microservices infrastructure that improved system reliability by 30%. Mentored junior developers and conducted code reviews to maintain code quality.",
+      technologies: ["React.js", "Node.js", "CI/CD", "Microservices", "Team Leadership"]
     },
     {
-      company: "MotionCut",
-      role: "Python Development Intern",
-      duration: "March 2024 - May 2024",
-      location: "Remote",
-      description: "Developed Python applications focusing on data processing and automation scripts. Created efficient algorithms for data analysis and built CLI tools that improved workflow efficiency. Gained hands-on experience with Python libraries and version control systems.",
-      technologies: ["Python", "Data Analysis", "CLI Development", "Git", "Testing"]
-    },
-    {
-      company: "Bharat Intern",
-      role: "Machine Learning Intern",
-      duration: "January 2024 - February 2024", 
-      location: "Remote",
-      description: "Worked on machine learning projects including predictive modeling and data visualization. Implemented various ML algorithms and created data pipelines for processing large datasets. Contributed to model optimization and performance analysis.",
-      technologies: ["Python", "Machine Learning", "Data Science", "TensorFlow", "Pandas"]
+      company: "M",
+      role: "Python Developer Intern",
+      duration: "Summer 2019",
+      location: "Bangalore, India",
+      description: "Developed RESTful APIs using Express.js and MongoDB while creating responsive UI components with React and Material UI. Participated in Agile development processes including daily stand-ups and sprint planning. Collaborated with the QA team to identify and fix bugs, ensuring high-quality software delivery.",
+      technologies: ["Python", "Express.js", "MongoDB", "React.js", "Material UI", "Agile"]
     }
   ];
 

@@ -31,17 +31,17 @@ const Hero = () => {
           <div className="space-y-6 max-w-4xl mx-auto">
             <h1 className="text-5xl md:text-7xl font-bold font-display">
               <span className="bg-text-gradient bg-clip-text text-transparent bg-size-200 animate-text-shimmer">
-                Your Name
+                Shaik Zahid Hussain
               </span>
             </h1>
             
             <h2 className="text-xl md:text-2xl text-primary font-medium animate-slide-up delay-200">
-              Frontend Developer
+              Web Developer | Python | MySQL | React.js
             </h2>
             
             <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed animate-slide-up delay-300">
-              Building modern web applications with clean UI and smart features. 
-              Passionate about creating exceptional user experiences through code.
+              Software developer passionate about frontend, backend, and data-driven solutions. 
+              Focused on quality code, clean interfaces, and working with creative teams.
             </p>
             
             {/* CTA Buttons */}

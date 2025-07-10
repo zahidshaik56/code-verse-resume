@@ -3,9 +3,9 @@ import { Badge } from "@/components/ui/badge";
 import { User, Target, MapPin, GraduationCap } from "lucide-react";
 
 const About = () => {
-  const skills = [
-    "React.js", "JavaScript", "TypeScript", "HTML/CSS", "Tailwind CSS",
-    "Node.js", "Python", "Git", "Responsive Design", "Problem Solving"
+const skills = [
+    "React.js", "Python", "Apache Spark", "SQL", "MySQL", "JavaScript", 
+    "HTML/CSS", "Node.js", "Express.js", "MongoDB", "Git", "Material UI"
   ];
 
   const softSkills = ["Teamwork", "Communication", "Leadership", "Time Management", "Adaptability"];
@@ -32,19 +32,19 @@ const About = () => {
               </div>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  I'm a passionate Frontend Developer with a Computer Science background, 
-                  specializing in React.js and modern web technologies. Currently based in 
-                  [Your Location], I love turning complex problems into simple, beautiful solutions.
+                  I'm a passionate Software Developer with a Computer Systems Engineering background, 
+                  specializing in React.js, Python, and data-driven solutions. Currently pursuing my 
+                  Bachelor's degree at JNTU Anantapur, I focus on creating quality code and clean interfaces.
                 </p>
                 <p>
-                  My journey in tech started with curiosity about how websites work, and has 
-                  evolved into a deep passion for creating user-centric applications that make 
-                  a difference. I'm always eager to learn new technologies and collaborate with 
-                  talented teams.
+                  My journey in tech combines frontend development with backend expertise and data analysis. 
+                  I'm experienced in building scalable web applications, implementing CI/CD pipelines, and 
+                  working with creative teams to deliver exceptional user experiences.
                 </p>
                 <p>
-                  When I'm not coding, you can find me exploring new technologies, contributing 
-                  to open-source projects, or working on personal projects that challenge my skills.
+                  I enjoy working on challenging projects that span across different technologies, 
+                  from React applications to Apache Spark data analysis, always eager to learn and 
+                  contribute to innovative solutions.
                 </p>
               </div>
             </Card>
@@ -55,8 +55,8 @@ const About = () => {
                 <h3 className="text-2xl font-semibold">Current Goal</h3>
               </div>
               <p className="text-lg text-primary font-medium">
-                Looking for a frontend developer role in 2025 where I can contribute to 
-                innovative projects and grow with a dynamic team.
+                Completing my Bachelor's in Computer Systems Engineering at JNTU Anantapur (2021-2025) 
+                and seeking opportunities to contribute to innovative projects with dynamic teams.
               </p>
             </Card>
           </div>
